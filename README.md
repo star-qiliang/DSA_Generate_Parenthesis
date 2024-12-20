@@ -1,4 +1,4 @@
-# Gucci DSA Generate Parenthesis
+# DSA Generate Parenthesis
 ## Repo
 
 https://github.com/star-qiliang/DSA_Generate_Parenthesis
