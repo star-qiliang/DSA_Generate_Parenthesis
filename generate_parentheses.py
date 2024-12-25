@@ -30,3 +30,6 @@ class Solution:
                 res_list+=tmp_list4
 
             return res_list
+
+        res_list = generate_right_side(n, 0, 0)
+        return res_list
